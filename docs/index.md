@@ -1,5 +1,5 @@
 ---
-Prisha Sheth's Portfolio
+title: Prisha Sheth's Portfolio
 ---
 
 My name is Prisha and I am an undergraduate Computer Science student at the Georgia Institute of Technology specializing in the Intelligence and Information-InterNetworks threads.
