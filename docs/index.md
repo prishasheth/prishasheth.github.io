@@ -56,7 +56,36 @@ I developed an interactive C program specifically tailored for the Game Boy Adva
 <a id="experience"></a>
 ### **Experience**
 
+- **Intel Corporation - Software Engineer Intern**
+    - Engineering and developing a Pre-Production Driving Service to emulate the Intel Clients driver upload process to Microsoft, facilitating        the signing of drivers for testing and validation. Implementing functionalities such as obtaining SAS URLs, triggering file uploads, and 
+      retrieving signed drivers from the Windows Dev Center.
+
+- **Intel Corporation - Software Design Engineer Intern**
+    - Engineered and managed a Web Application, used by the MTC DevOps team to back up source/media files transferred from Microsoft, using the        ASP.NET MVC pattern in C#.
+    - Modernized the Dashboard by using technologies such as Figma and Miro to build wire-frames that would facilitate the process of creating         clean, consolidated and refined interfaces.
+    - Analyzed the Master MTC DevOps database to extract useful data for the Dashboard by making API calls to the API.
+    - Enhanced the page significantly by adding features such as internal path searches and filters to cater to the needs of the user.
+      Implemented technologies such as lazy loading to access API data quicker and more efficiently to improve run times.
+      
+- **College of Computing (Georgia Institute of Technology) - Teaching Assistant**
+    - Undergraduate teaching assistant for the Intro to Discrete Math Computer Science course. Taught weekly recitations, conducted 3 hours of help desk per week, formulated and compiled weekly assignments and solutions, and graded examinations.
+
+- **IIT Bombay - Technical Intern**
+    - Designed and implemented a one-stop-shop web page using HTML, Javascript, and CSS for the Movement Neuroscience and Rehabilitation Technology lab, educating the viewers on the extensive research conducted by the lab in the field of motor control and motor learning. Did this by collating multiple resources and bringing it all to one centralized location to increase awareness resulting in more research and job opportunities for the students at IIT Bombay.
+
+ - **Motion Drivetronics - Design Intern**
+     - Designed stepper motors, synchronous motors, gearheads, and motor parts, in collaboration with the design organization, using
+AutoCAD and SOLIDWORKS. This led to enhanced performance of the motors and thus enabled lower turnaround time for the manufacturing process by 30%.
+ 
+
 <a id="lacs"></a>
 ### **Leadership, Activities, and Community Service**
 
+ - **Python for Beginners**
+Developed and taught a Python course for beginners, reaching over 50 students, with a majority being female. This initiative helped inspire the next generation of engineers and STEM candidates by sparking their interest in coding.
 
+ - **Vice-President of the Student Council**
+Collaborated with fellow student council and faculty members to make informed school decisions and set a positive example through behaviour and adhering to expected norms. This led to increased discipline, decorum, and student morale.
+
+ - **Google Developers Student Club**
+Actively involved in DSCGT, developing skills through workshops and collaborative projects. Created impactful solutions for local businesses, including data analysis and app development. Strengthened technical expertise, problem-solving, and teamwork in a hands-on, peer-to-peer learning environment.
