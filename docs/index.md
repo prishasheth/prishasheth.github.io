@@ -68,24 +68,22 @@ I developed an interactive C program specifically tailored for the Game Boy Adva
       Implemented technologies such as lazy loading to access API data quicker and more efficiently to improve run times.
       
 - **College of Computing (Georgia Institute of Technology) - Teaching Assistant**
-    - Undergraduate teaching assistant for the Intro to Discrete Math Computer Science course. Taught weekly recitations, conducted 3 hours of help desk per week, formulated and compiled weekly assignments and solutions, and graded examinations.
+    - As an undergraduate teaching assistant for the Intro to Discrete Math Computer Science course, my responsibilities included leading weekly recitations, offering three hours of help desk support per week, creating and organizing weekly assignments and solutions, as well as grading examinations.
 
 - **IIT Bombay - Technical Intern**
-    - Designed and implemented a one-stop-shop web page using HTML, Javascript, and CSS for the Movement Neuroscience and Rehabilitation Technology lab, educating the viewers on the extensive research conducted by the lab in the field of motor control and motor learning. Did this by collating multiple resources and bringing it all to one centralized location to increase awareness resulting in more research and job opportunities for the students at IIT Bombay.
+    - I designed and implemented a comprehensive web page using HTML, JavaScript, and CSS for the Movement Neuroscience and Rehabilitation Technology lab. The aim was to educate viewers about the lab's extensive research in the field of motor control and motor learning. By collating multiple resources and creating a centralized location, the web page provided a one-stop-shop for information. This initiative aimed to increase awareness about the lab's work, leading to more research opportunities and job prospects for students at IIT Bombay. Through an intuitive and user-friendly interface, the web page showcased the lab's achievements, ongoing projects, publications, and collaborations. By presenting this wealth of information in a centralized manner, the web page served as a hub for interested individuals, fostering greater engagement with the lab's research and contributing to the advancement of movement neuroscience and rehabilitation technology.
 
  - **Motion Drivetronics - Design Intern**
-     - Designed stepper motors, synchronous motors, gearheads, and motor parts, in collaboration with the design organization, using
-AutoCAD and SOLIDWORKS. This led to enhanced performance of the motors and thus enabled lower turnaround time for the manufacturing process by 30%.
+     - In collaboration with the design organization, I utilized AutoCAD and SOLIDWORKS to design stepper motors, synchronous motors, gearheads, and motor parts. Through this process, we achieved significant improvements in motor performance. By employing these advanced design tools, we were able to optimize the motor designs for enhanced efficiency and reliability. As a result, the manufacturing process experienced a remarkable 30% reduction in turnaround time. This improvement enabled faster production and delivery of motors, ultimately benefiting our customers and enhancing overall operational efficiency. By leveraging AutoCAD and SOLIDWORKS, our collaborative efforts successfully resulted in the development of high-quality motor components that contributed to improved performance and streamlined manufacturing processes.
  
-
 <a id="lacs"></a>
 ### **Leadership, Activities, and Community Service**
 
  - **Python for Beginners**
-Developed and taught a Python course for beginners, reaching over 50 students, with a majority being female. This initiative helped inspire the next generation of engineers and STEM candidates by sparking their interest in coding.
+I developed and conducted a Python course catered towards beginners, with a focus on reaching out to underrepresented groups in STEM. The course attracted over 50 students, with a majority being female participants. By introducing them to the fundamentals of coding and Python, this initiative aimed to ignite their interest in programming and inspire them to pursue careers in engineering and STEM fields. Through hands-on exercises and interactive sessions, the course empowered these students to develop valuable coding skills and provided them with a strong foundation to further explore the world of programming.
 
  - **Vice-President of the Student Council**
-Collaborated with fellow student council and faculty members to make informed school decisions and set a positive example through behaviour and adhering to expected norms. This led to increased discipline, decorum, and student morale.
+I actively collaborated with fellow council members and faculty to make informed decisions for our school. By fostering open communication and considering diverse perspectives, we worked towards creating a positive and inclusive environment. Through our collective efforts, we set a strong example through our behavior, adhering to expected norms and promoting discipline and decorum among students. These initiatives significantly contributed to increased student morale, creating a conducive learning atmosphere and enhancing the overall school experience.
 
  - **Google Developers Student Club**
 Actively involved in DSCGT, developing skills through workshops and collaborative projects. Created impactful solutions for local businesses, including data analysis and app development. Strengthened technical expertise, problem-solving, and teamwork in a hands-on, peer-to-peer learning environment.
