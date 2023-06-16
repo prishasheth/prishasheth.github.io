@@ -15,7 +15,7 @@ Through my portfolio, I aim to showcase the culmination of my decade-long journe
 - [Projects](#projects)
 - [Experience](#experience)
 - [Leadership, Activities, and Community Service](#lacs)
-- [Resume](Prisha%20Sheth%20Resume.pdf)
+- [Resume](https://drive.google.com/file/d/1-9-NrvmidCS0tL3XSQh8jV65aWM9kX58/view?usp=sharing)
 
 <a id="projects"></a>
 ### **Projects**
