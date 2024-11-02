@@ -180,6 +180,18 @@
     color: red;
   }
 
+  .project-image-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+  .project-image {
+      width: 550px;
+      height: auto;
+      margin-bottom: 10px;
+  }
+
   .details {
     list-style-type: disc !important;
     padding-left: 20px;
