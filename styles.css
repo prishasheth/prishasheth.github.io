@@ -90,6 +90,24 @@
     margin-bottom: 30px;
     font-family: 'Tajawal', sans-serif;
   }
+
+  .contact {
+    max-width: 1000px;
+  }
+  
+  .contact h2 {
+    font-size: 1.9em;
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-family: 'Roboto', monospace;
+  }
+  
+  .contact p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    font-family: 'Tajawal', sans-serif;
+  }
   
   .highlight {
     color: #e63946;
@@ -209,4 +227,27 @@
       height: 100%;
       border: none; 
   }
-      
+
+  .form-group {
+      margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  input[type='text'],
+  input[type='email'],
+  textarea {
+    width: 1000px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  textarea {
+    height: 150px;
+  }
